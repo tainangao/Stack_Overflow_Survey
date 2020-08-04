@@ -17,7 +17,7 @@ Investigates the following findings:
 1. respondents who did open source projects tend to have higher salary
 2. respondents who woke up earlier tend to have higher salary
 
-using the statistical analysis below:
+using the statistical analyses below:
 
 - Inference for 2 samples - OpenSource
   - proportion (proportion of people with 75k+ salary)
