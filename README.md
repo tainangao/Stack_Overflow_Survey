@@ -19,13 +19,13 @@ Investigates the following findings:
 
 using the statistical analyses below:
 
-- Inference for 2 samples - OpenSource
+- Inference for 2 samples - `OpenSource`
   - proportion (proportion of people with 75k+ salary)
     - Confidence Interval
     - Hypothesis Test
   - mean (mean salary)
     - Confidence Interval
     - Hypothesis Test
-- Inference for 2+ samples - WakeTime
+- Inference for 2+ samples - `WakeTime`
   - mean (mean salary)
     - Hypothesis Test (One-Way ANOVA)
